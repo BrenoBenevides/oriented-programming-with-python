@@ -72,3 +72,4 @@ instance2 = Contact(first_name='breno',
                    )
 
 print(hash(instance) == hash(instance2))
+
